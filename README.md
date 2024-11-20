@@ -1,5 +1,15 @@
-# JShare Application
-<img width="375" alt="image-2" src="https://github.com/emirhanzeyrekk/JShareApp-BTKAcademyiOSCourse/assets/121854589/f1c3f82d-891c-4475-a0bd-2f4ba52801a0">
-<img width="375" alt="image-3" src="https://github.com/emirhanzeyrekk/JShareApp-BTKAcademyiOSCourse/assets/121854589/6808cc50-fa97-4cdc-9a67-ec9d80d929e5">
-<img width="375" alt="image-5" src="https://github.com/emirhanzeyrekk/JShareApp-BTKAcademyiOSCourse/assets/121854589/e16a9d7f-ac0e-44d5-903b-088c7a8c0918">
-<img width="375" alt="image-4" src="https://github.com/emirhanzeyrekk/JShareApp-BTKAcademyiOSCourse/assets/121854589/89ba71a8-a4a4-4e28-863a-a5ddac733798">
+# Momently
+An application developed using Firebase infrastructure that allows each user to log in and share content, enabling all members to view the shared posts of other members.
+
+## Technologies
+* Development Environment: Xcode
+* Programming Language: Swift
+* Frameworks: UIKit, SDWebImage
+* Services: Firebase
+* OS: iOS
+
+## Screenshots
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b2e81a52-9b11-4a03-ba62-2b2054352a6c">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/79c1ce06-fdb7-4372-91f2-3372819ec802">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/bc315bed-3955-4d6a-aebf-8eb69e3a10c8">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/df3eff4d-6330-4bd0-9252-da3a041a3cae">
